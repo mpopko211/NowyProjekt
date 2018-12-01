@@ -1,4 +1,10 @@
-package PACKAGE_NAME;
-
 public class Class2 {
+
+  static int add(int a, int b){
+      int result;
+      result = a+b;
+      return result;
+  }
+
+
 }
